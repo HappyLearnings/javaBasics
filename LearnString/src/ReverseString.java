@@ -8,7 +8,7 @@ class ReverseString
 {
     public static void main(String[] args)
     {
-        String input = "shruti";
+        String input = "itsmyday";
 
         // getBytes() method to convert string
         // into bytes[].
